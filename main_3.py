@@ -241,3 +241,6 @@ if __name__ == "__main__":
     position_final = aventurier_1.actual_pos()
     print(f"L'aventurier(e) a collecté(e) {aventurier_1.Nb_tresor_col} trésor et fini en position {position_final}")
     print("\n")
+    
+    
+    #######
